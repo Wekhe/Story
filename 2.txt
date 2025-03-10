@@ -1,0 +1,1 @@
+My first ever repo, i guess a lot of people start out git with this
